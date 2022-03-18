@@ -1,0 +1,10 @@
+{
+    cmdlines = {
+        [[xmake l c:\Users\itdev\.vscode\extensions\tboox.xmake-vscode-1.5.2\assets\config.lua]],
+        [[xmake l c:\Users\itdev\.vscode\extensions\tboox.xmake-vscode-1.5.2\assets\config.lua]],
+        [[xmake l c:\Users\itdev\.vscode\extensions\tboox.xmake-vscode-1.5.2\assets\update_intellisense.lua .vscode]],
+        [[xmake l c:\Users\itdev\.vscode\extensions\tboox.xmake-vscode-1.5.2\assets\config.lua]]
+    }
+}lua .vscode]]
+    }
+}

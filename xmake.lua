@@ -1,0 +1,5 @@
+-- Copyright 2022 Zhenglong WU(itdevwu)
+target("UserAPPV1")
+    set_kind("binary")
+    set_languages("cxx20")
+    add_files("src/app/v1/lm_app_user.cpp")
