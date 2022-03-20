@@ -3,7 +3,7 @@
 int main(int argc, char **argv)
 {
 #ifdef _WIN32
-    // Set the console to UTF-8
+    // Set the console encoding to UTF-8
     SetConsoleOutputCP(65001);
 #endif
 

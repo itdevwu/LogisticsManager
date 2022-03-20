@@ -14,6 +14,10 @@ limitations under the License. -->
 
 # LogisticsManager
 
+[![GitHub license](https://img.shields.io/github/license/itdevwu/LogisticsManager)](https://github.com/itdevwu/LogisticsManager/blob/master/LICENSE)
+![Lines of code](https://img.shields.io/tokei/lines/github/itdevwu/LogisticsManager)
+![GitHub top language](https://img.shields.io/github/languages/top/itdevwu/LogisticsManager)
+
 北京邮电大学面向对象程序设计（C++）大作业的物流管理系统.
 
 ## Copyright
