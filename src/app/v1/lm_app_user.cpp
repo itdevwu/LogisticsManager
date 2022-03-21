@@ -1,11 +1,15 @@
-#include "../lm_app.hpp"
+#include "lm_app_user.hpp"
+#include "ui_lm_app_user.h"
 
-int main(int argc, char **argv)
+User::User(QWidget *parent)
+    : QWidget(parent)
+    , ui(new Ui::User)
 {
-#ifdef _WIN32
-    // Set the console encoding to UTF-8
-    SetConsoleOutputCP(65001);
-#endif
-
-    return 0;
+    ui->setupUi(this);
 }
+
+User::~User()
+{
+    delete ui;
+}
+
